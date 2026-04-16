@@ -6,7 +6,7 @@
     <!-- </a> -->
 </p>
 
-# 🏫 Dr.Shahram Faraji High School
+# Dr.Shahram Faraji High School
 
 **"آرشیو ۳ سال با کامپیوتری‌ها!"**
 
