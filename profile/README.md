@@ -1,8 +1,8 @@
-<div align="center">
+<div align="center" style="border-radius: 25px;">
 
 <p>
     <!-- <a href="https://site.ir/"> -->
-        <img style="border-radius: 25px;" width="150" src="https://raw.githubusercontent.com/Dr-Shahram-Faraji-High-School/.github/refs/heads/main/unnamed.jpg" alt="The Dr.Shahram Faraji High School build">
+        <img width="150" src="https://raw.githubusercontent.com/Dr-Shahram-Faraji-High-School/.github/refs/heads/main/unnamed.jpg" alt="The Dr.Shahram Faraji High School build">
     <!-- </a> -->
 </p>
 
