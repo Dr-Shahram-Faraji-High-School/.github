@@ -1,10 +1,12 @@
-<div align="center" style="border-radius: 25px;">
+<div align="center" style="border-radius: 25px; overflow: hidden; display: inline-block;">
 
 <p>
-    <!-- <a href="https://site.ir/"> -->
-        <img width="150" src="https://raw.githubusercontent.com/Dr-Shahram-Faraji-High-School/.github/refs/heads/main/unnamed.jpg" alt="The Dr.Shahram Faraji High School build">
-    <!-- </a> -->
+    <img width="150"
+         src="https://raw.githubusercontent.com/Dr-Shahram-Faraji-High-School/.github/refs/heads/main/unnamed.jpg"
+         alt="The Dr.Shahram Faraji High School build">
 </p>
+
+
 
 # Dr.Shahram Faraji High School
 
