@@ -1,14 +1,14 @@
 <div align="center">
 
 <p>
-    <!-- <a href="https://salamlang.ir/"> -->
-        <img width="150" src="https://raw.githubusercontent.com/SalamLang/Salam/main/assets/logo-box.svg" alt="The Salam Programming Language - زبان برنامه نویسی سلام">
+    <!-- <a href="https://site.ir/"> -->
+        <img width="150" src="https://raw.githubusercontent.com/Dr-Shahram-Faraji-High-School/.github/refs/heads/main/unnamed.jpg" alt="The Dr.Shahram Faraji High School build">
     <!-- </a> -->
 </p>
 
 # 🏫 Dr.Shahram Faraji High School
 
-> **"آرشیو ۳ سال با کامپیوتری‌ها!"**
+**"آرشیو ۳ سال با کامپیوتری‌ها!"**
 
 به مخزن رسمی پروژه‌های هنرستان **دکتر شهرام فرجی** خوش آمدید 🚀
 
